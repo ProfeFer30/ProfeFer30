@@ -1,6 +1,6 @@
 ## Olá! Você está no meu perfil!
 
-Meu nome é *Fernanda Vitória*
+Meu nome é **Fernanda Vitória**
 
 - Sou professora de tecnologia da 2ª série A; e
   
